@@ -24,8 +24,6 @@ These segments can help brands personalize marketing and improve inventory strat
 - **Name**: Sneakers & Streetwear Sales (2022)
 - **Link**: [Download Dataset](https://www.kaggle.com/datasets/atharvasoundankar/sneakers-and-streetwear-sales-2022)
 
-> *If this is a custom dataset or uploaded on your Kaggle notebook, replace the link above with your notebook’s dataset URL or upload it as a `.csv` in the repo.*
-
 ## 📌 Tools & Libraries
 
 - Python (Pandas, NumPy)
